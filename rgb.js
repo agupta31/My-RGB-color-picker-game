@@ -122,4 +122,4 @@ function setIndex(){
    else
      index=6;
 }
-window.onload=init;
+init();
